@@ -206,9 +206,10 @@ p {
 	<form method="post" action="index.php">
 		
 		<div class="form-group">
+			llll
 			<i style="color: red;"><b><?php echo display_error(); ?></b></i>
 			<br>
-			llllll
+			
 			<label class="form-control-label">Email</label>
 			<input type="text" name="username", class="form-control" required>
 		</div>

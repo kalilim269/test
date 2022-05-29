@@ -208,6 +208,7 @@ p {
 		<div class="form-group">
 			<i style="color: red;"><b><?php echo display_error(); ?></b></i>
 			<br>
+			llllll
 			<label class="form-control-label">Email</label>
 			<input type="text" name="username", class="form-control" required>
 		</div>

@@ -1,4 +1,4 @@
-<?php //include_once 'loginfunctions.php' ?>
+<?php include_once 'loginfunctions.php' ?>
 
 <!DOCTYPE html>
 <html>
@@ -206,7 +206,6 @@ p {
 	<form method="post" action="index.php">
 		
 		<div class="form-group">
-			llll
 			<i style="color: red;"><b><?php echo display_error(); ?></b></i>
 			<br>
 			
